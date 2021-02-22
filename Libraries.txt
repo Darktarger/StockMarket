@@ -1,3 +1,4 @@
 Список импортируемых библиотек:
 1. pip install requests bs4
-2. 
+2. pip install psycopg2
+3.
